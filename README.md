@@ -12,3 +12,4 @@
 - Solving Graph-based Public Good Games with Tree Search and Imitation Learning: https://proceedings.neurips.cc/paper_files/paper/2021/file/0db2e204010400f5c506620adcd1ae68-Paper.pdf
 - Discrete Choice with Social Interactions(2001): https://www.jstor.org/stable/2695928
 - BINARY CHOICE MODELS WITH SOCIAL NETWORK UNDER HETEROGENEOUS RATIONAL EXPECTATIONS(2014): https://www.jstor.org/stable/43555332
+- Social Attentional Memory Network: Modeling Aspect- and Friend-level Differences in Recommendation: https://dl.acm.org/doi/pdf/10.1145/3289600.3290982
