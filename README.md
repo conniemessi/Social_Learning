@@ -10,3 +10,5 @@
 - Emergent Social Learning via Multi-agent Reinforcement Learning: https://arxiv.org/pdf/2010.00581.pdf
 - Learning Strategic Network Emergence Games: https://proceedings.neurips.cc/paper/2020/file/4bb236de7787ceedafdff83bb8ea4710-Paper.pdf
 - Solving Graph-based Public Good Games with Tree Search and Imitation Learning: https://proceedings.neurips.cc/paper_files/paper/2021/file/0db2e204010400f5c506620adcd1ae68-Paper.pdf
+- Discrete Choice with Social Interactions(2001): https://www.jstor.org/stable/2695928
+- BINARY CHOICE MODELS WITH SOCIAL NETWORK UNDER HETEROGENEOUS RATIONAL EXPECTATIONS(2014): https://www.jstor.org/stable/43555332
