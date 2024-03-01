@@ -17,5 +17,5 @@
 ### Resources:
 - Zhihu topic: https://www.zhihu.com/topic/19576978/hot (社会化推荐)
   - https://zhuanlan.zhihu.com/p/88795949 (Consensus reaching in social network group decision making)
-  - https://zhuanlan.zhihu.com/p/535756111 ()Collective minds: social network topology shapes collective cognition)
-- Github **Social-Recommendation**: https://github.com/npxiaoying/Social-Recommendation?tab=readme-ov-file 
+  - https://zhuanlan.zhihu.com/p/535756111 (Collective minds: social network topology shapes collective cognition)
+- GitHub **Social-Recommendation**: https://github.com/npxiaoying/Social-Recommendation?tab=readme-ov-file 
