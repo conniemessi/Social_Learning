@@ -31,3 +31,6 @@
   - https://zhuanlan.zhihu.com/p/535756111 (Collective minds: social network topology shapes collective cognition)
 - GitHub **Social-Recommendation**: https://github.com/npxiaoying/Social-Recommendation?tab=readme-ov-file
 - Social Intelligence (Blaise Aguera y Arcas): https://slideslive.com/38922302/social-intelligence
+
+### Paper summary
+The folder has detailed summaries for each paper.
